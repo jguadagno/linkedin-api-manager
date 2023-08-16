@@ -1,0 +1,13 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ExtraStuff", "ExtraStuff", "{CA7CFF1F-4DB2-4B9A-BB46-5D922C457D29}"
+ProjectSection(SolutionItems) = preProject
+	..\README.md = ..\README.md
+	..\.gitignore = ..\.gitignore
+	..\developer-getting-started.md = ..\developer-getting-started.md
+	..\LinkedIn.http = ..\LinkedIn.http
+EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedIn", "LinkedIn\LinkedIn.csproj", "{8A822F45-945B-42EF-9344-8D37CB519804}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedIn.Tests", "LinkedIn.Tests\LinkedIn.Tests.csproj", "{E7360F64-98CB-4A31-8870-B4CB6BA06F03}"
+EndProject
